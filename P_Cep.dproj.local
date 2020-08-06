@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/19 11:16:09.000.266,=C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/19 11:23:32.000.780,=C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/14 15:11:09.000.070,=C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/04 09:44:28.000.316,=C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 14:00:52.000.714,=C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/13 14:46:47.000.321,C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\P_Cep\U_Cep.pas</Transaction>
+    <Transaction>2020/07/13 14:46:47.000.321,C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\P_Cep\U_Cep.dfm</Transaction>
+    <Transaction>2020/07/13 14:46:56.000.366,C:\Users\Márcio\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\P_Cep\P_Cep.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
